@@ -2,6 +2,5 @@
 
 ## Header 2 - about GitHub
 
-**bold text**
-
+**bold text** @dwnatwick
 This is the initial readme file
